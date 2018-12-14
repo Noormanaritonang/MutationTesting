@@ -1,4 +1,4 @@
-# MutationTesting
+# MutationTesting Project at schedule program
 Mutation testing (or mutation analysis or program mutation) is used to design new software tests and evaluate the quality of existing software tests.
 
 Langkah-Langkah menjalankan program
@@ -14,3 +14,6 @@ Langkah-Langkah menjalankan program
 10. Buka kode programnya dan edit path, sesuiakan dengan path anda
 11. Anda dapat menjalankan program ini dengan jupyter Notebook pada Anaconda
 12. Setelah berhasil maka hasil pencarian FCI & Non FCI serta MutantScore akan di generate dalam bentuk csv.
+
+
+#NoormanAritonang
